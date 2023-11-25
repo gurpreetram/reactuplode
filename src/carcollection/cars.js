@@ -10,7 +10,7 @@ const Cars = () => {
             <div className="cars-div">
                 <div className="image-div">
                     <img src={picture1} alt="picture" className="w-100" />
-                    <p className="absoult-para">2024 Ford Mustang <sup>®</sup></p>
+                    <p className="absoult-para">2024 Ford Mustang  Gurpreet ram<sup>®</sup></p>
                     <div className="absoult-div">
                         <button type="button">Build & Price</button>
                     </div>
