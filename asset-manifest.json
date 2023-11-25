@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/reactuplode/static/css/main.892fd499.css",
+    "main.js": "/reactuplode/static/js/main.3d78fe9f.js",
+    "static/js/787.1bb838f2.chunk.js": "/reactuplode/static/js/787.1bb838f2.chunk.js",
+    "static/media/modelsimage.jpeg": "/reactuplode/static/media/modelsimage.cde87f54435bb5632363.jpeg",
+    "static/media/cartwo.jpeg": "/reactuplode/static/media/cartwo.5d879fb1e5bef8c4779e.jpeg",
+    "static/media/redcar.jpeg": "/reactuplode/static/media/redcar.435c2361bb6e86bdeb65.jpeg",
+    "static/media/card3.avif": "/reactuplode/static/media/card3.d316a23a00891bd43493.avif",
+    "static/media/card2.avif": "/reactuplode/static/media/card2.e2fa1759570679e065eb.avif",
+    "static/media/card4.avif": "/reactuplode/static/media/card4.3cfe6b9ddb7ea0d40628.avif",
+    "static/media/card1.avif": "/reactuplode/static/media/card1.72562df2fd4c07405112.avif",
+    "index.html": "/reactuplode/index.html",
+    "main.892fd499.css.map": "/reactuplode/static/css/main.892fd499.css.map",
+    "main.3d78fe9f.js.map": "/reactuplode/static/js/main.3d78fe9f.js.map",
+    "787.1bb838f2.chunk.js.map": "/reactuplode/static/js/787.1bb838f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.892fd499.css",
+    "static/js/main.3d78fe9f.js"
+  ]
+}
