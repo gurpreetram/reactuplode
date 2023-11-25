@@ -1,0 +1,42 @@
+h5{
+    color: #00095b;
+    font-weight: bolder;
+    font-size: 17px;
+    padding-right: 30px;
+}
+.icons{
+    margin: 10px;
+    color: #00095b;
+}
+.dropdownbtn{
+    border-radius: 2px;
+    padding:6px 152px;
+    /* color: rgba(0, 0, 0, 0); */
+    background-color: rgb(0, 9, 91);
+    border: none;
+}
+
+.second-nav {
+    display: flex;
+    width: 100%;
+}
+
+.dropdown {
+    width: 25%;
+}
+
+.second-nav-btn {
+    width: 100%;
+    text-align: right;
+    background-color: #00142e;
+}
+
+button{
+    padding: 16px;
+    background: none;
+    outline: none;
+    border: none;
+    color: white;
+    font-size: 19px;
+    margin-right: 41px;
+}

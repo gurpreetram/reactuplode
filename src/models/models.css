@@ -1,0 +1,15 @@
+.model-div {
+    position: relative;
+}
+
+.absoult-models {
+    position: absolute;
+    top: 57px;
+    color: white;
+    left: 138px;
+}
+
+.modelsbtn {
+    background-color: white;
+    border-radius: 50px;
+}
